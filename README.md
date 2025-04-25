@@ -1,5 +1,5 @@
-# Titanic-Dataset-task2-Load & Inspect Data
-
+# Titanic-Dataset-task2
+Load & Inspect Data
 Use df.head(), df.info(), df.describe() to understand structure and types.
 Handle Missing Values
 Fill numeric columns (e.g., Age, Fare) with median.
